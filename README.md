@@ -62,7 +62,7 @@ src/
 - Formulário de contato simulado e botões de ligar e enviar e-mail
 
 ## Capturas de tela
-![Login](capturas/login.png)
-![Home](capturas/home.png)
-![Sobre](capturas/sobre.png)
-![Contato](capturas/contato.png)
+![Login](login.png)
+![Home](home.png)
+![Sobre](sobre.png)
+![Contato](contato.png)
